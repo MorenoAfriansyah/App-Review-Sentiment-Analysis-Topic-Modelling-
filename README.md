@@ -1,4 +1,4 @@
-# App-Review-with-Sentiment-Analysis-Topic-Modelling
+# App-Review-with-Topic-Modelling
 McD App Review Topic Modelling using BERTopic and Top2Vec.
 
 ## Problem Urgency
